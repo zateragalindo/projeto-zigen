@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5rem;
+
+  /* Produto colors */
+  --brand-gradient: line-gradient(#FC4A1A, #F7B733);
+  --brand-color-primary: #F7B733;
+  --brand-color-secondary: #FC4A1A;
+
+  /* Base colors */
+  --background-color: #09090B;
+  --surface-color: #18181B;
+  --stroke-color: #27272A;
+  --text-color-secondary: #A1A1AA;
+  --text-color-primary: #F4F4F5;
+
+
+  /* Fonts */
+  --font-family: 
+
+}
