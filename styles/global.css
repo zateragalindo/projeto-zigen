@@ -18,12 +18,11 @@
   font-size: 62.5%;
 
   /* Produto colors */
-  --brand-gradient: line-gradient(#FC4A1A, #F7B733);
   --brand-color-primary: #F7B733;
   --brand-color-secondary: #FC4A1A;
 
   /* Base colors */
-  --background-color: #09090B;
+  --bg-color: #09090B;
   --surface-color: #18181B;
   --stroke-color: #27272A;
   --text-color-primary: #F4F4F5;
@@ -61,7 +60,7 @@ html {
 body {
   font-size: 1.6rem;
 
-  background-color: var(--background-color);
+  background-color: var(--bg-color);
 }
 
 h1, h2, h3 {
