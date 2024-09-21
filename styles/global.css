@@ -42,6 +42,12 @@
   --fs-lg: 2.4rem;
   --fs-xl: 4rem;
 
+  --py-base: 1.6rem;
+  --py-lg: 2.4rem;
+  --py-xl: 4.8rem;
+
+  --px-lg: 2.4rem;
+
 }
 
 html {
@@ -89,7 +95,13 @@ ul[role="list"] {
 @media (width >= 80em) {
   :root {
     --fs-md: 3.2rem;
-    --fs-lg: 4.8rem;
+    --fs-lg: 2.4rem;
     --fs-xl: 6.4rem;
+
+    --py-base: 2.4rem;
+    --py-lg: 4rem;
+    --py-xl: 8rem;
+
+    --px-lg: 3.2rem;
   }
 }
