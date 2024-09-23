@@ -60,7 +60,7 @@
     content: "";
     position: absolute;
     border-radius: inherit;
-    inset: .15rem;
+    inset: 1px;
     background-color: var(--bg-color);
   }
 
