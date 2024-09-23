@@ -1,8 +1,8 @@
 a.social {
   --bg-img: '';
   background-image: var(--bg-img);
-  width: 1.5rem;
-  height: 1.5rem;
+  width: 2.4rem;
+  height: 2.4rem;
   display: block;
 
   -webkit-background-clip: initial;
