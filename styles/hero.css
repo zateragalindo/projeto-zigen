@@ -24,26 +24,26 @@
 }
 
 @media (width >= 80em) {
-  #hero {
+  & #hero {
     display: block;
     background: url(../assets/bg-hero-desktop.svg) no-repeat bottom
       center/contain;
     padding-bottom: 15rem;
 
-    img[src*="music"] {
+    & img[src*="music"] {
       width: 42.2rem;
     }
     
-    h1 {
+    & h1 {
       margin-top: 2.4rem;
     }
     
-    p {
+    & p {
       margin-top: 1.6rem;
       font-size: 4rem;
     }
     
-    .buttons {
+    & .buttons {
       margin-top: 4.8rem;
     }
   }
