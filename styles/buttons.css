@@ -30,6 +30,11 @@
     var(--brand-color-primary) 100%
   );
   --btn-color: var(--surface-color);
+
+  -webkit-background-clip: initial;
+  background-clip: initial;
+
+  color: var(--btn-color);
 }
 
 
@@ -67,5 +72,18 @@
     color: transparent;
     position: relative;
     z-index: 1;
+  }
+}
+
+@media (width >= 80em) {
+
+  .btn-sm {
+    padding: 1.2rem 2.4rem;
+    font-size: var(--fs-base);
+  }
+  
+  .btn-md {
+    padding: 1.6rem 3.2rem;
+    font-size: 1.8rem;
   }
 }
