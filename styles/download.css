@@ -10,7 +10,7 @@
       width: 30rem;
       position: absolute;
       bottom: -4.8rem;
-      right: 0rem;
+      right: -5.8rem;
     }
   }
 
@@ -31,7 +31,6 @@
       & > img {
         width: 46rem;
         bottom: -7.4rem;
-        right: -5.8rem;
       }
     }
   }
